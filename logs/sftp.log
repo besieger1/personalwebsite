@@ -1,0 +1,5 @@
+Nov 14 23:09:09 10.71.48.19 tmp90375274-7808 Connection from 10.71.48.19 port 43862 on 212.227.24.65 port 22
+Nov 14 23:09:09 10.71.48.19 tmp90375274-7808 Accepted password for tmp90375274-7808 from 10.71.48.19 port 43862 ssh2
+Nov 14 23:09:09 - tmp90375274-7808 session opened for local user tmp90375274-7808 from [10.71.48.19]
+Nov 14 23:10:00 10.71.48.19 tmp90375274-1567 Connection from 10.71.48.19 port 17760 on 212.227.24.65 port 22
+Nov 14 23:10:00 10.71.48.19 tmp90375274-1567 Accepted password for tmp90375274-1567 from 10.71.48.19 port 17760 ssh2
